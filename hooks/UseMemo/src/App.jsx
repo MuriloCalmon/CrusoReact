@@ -1,5 +1,5 @@
 import P from "prop-types";
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useMemo, useRef, useState } from "react";
 import "./index.css";
 
 const Post = ({ post, handleClick }) => {
