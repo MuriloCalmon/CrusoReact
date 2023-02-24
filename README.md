@@ -16,7 +16,7 @@ useState, useEffect, useCallback, useMemo, useRef, UseContext
 
 
 <p align="center">
-  <img src=".github/preview.jpg" width="100%">
+  <img src="./github/preview.jpg" width="100%">
 </p>
 
 
