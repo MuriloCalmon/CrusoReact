@@ -48,7 +48,7 @@ const ItWillThrowError = () => {
     )
 }
 
-export const Home = () => {
+export const Error = () => {
     return (
         <MyErrorBoundary >
             <ItWillThrowError />
