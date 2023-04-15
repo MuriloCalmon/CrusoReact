@@ -21,4 +21,9 @@ export const Button = styled.button`
 export const Container = styled.div`
   text-align: center;
   margin-top: 300px;
+
+  ${({theme}) => css `
+    background: ${theme.colors.mainBg}
+  `}
 `;
+
